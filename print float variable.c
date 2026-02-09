@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    float a= 3.4;
-    printf("%f",a);
+    double a=1234;
+    printf("%.3f",a);
     return 0;
 }
